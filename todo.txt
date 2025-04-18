@@ -1,0 +1,3 @@
+TODO: 
+
+1. create a .env file to securely store the ABI, contract address, etc. It will be helpful for others to contribute
